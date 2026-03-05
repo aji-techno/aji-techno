@@ -8,17 +8,22 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
     steps:
-      - name: generate-snake-game
-        uses: Platane/snk@v3
+      # Ini buat Uler (Snake)
+      - uses: Platane/snk@v3
         with:
           github_user_name: aji-techno
           outputs: |
-            dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      # Ini buat PACMAN yang asli
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: dist/pacman.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_extrinsic: yes
 
       - name: push-to-output
         uses: crazy-max/ghaction-github-pages@v3.1.0
