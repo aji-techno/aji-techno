@@ -15,10 +15,15 @@ A graduate in Informatics Engineering from **Institut Teknologi PLN (ITPLN)** (C
 
 ### 🛠️ Languages, Skills & Tools
 
-| Category | Icons |
-| :--- | :--- |
-| **Languages & DB** | <img src="https://skillicons.dev/icons?i=php,py,html,css,js,mysql,postgres,bash" /> |
-| **Tools & OS** | <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,jupyter,windows,git,github,docker" /> |
+**Languages & Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,py,html,css,js,mysql,postgres,bash" />
+</p>
+
+**Tools & Environment**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,jupyter,windows,git,github,docker" />
+</p>
 
 
 ### 📊 GitHub Insights
