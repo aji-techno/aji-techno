@@ -31,8 +31,8 @@ Lulusan S1 Teknik Informatika dari **Institut Teknologi PLN (ITPLN)** tahun 2025
 ---
 
 
-### 🕹️ Pacman Activity (Top)
-![Pacman Animation](https://raw.githubusercontent.com/aji-techno/aji-techno/output/ocean.gif)
+### 🕹️ Real Pacman Activity
+![Pacman](https://raw.githubusercontent.com/aji-techno/aji-techno/output/pacman.svg)
 
 ---
 
