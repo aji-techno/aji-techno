@@ -14,10 +14,14 @@ A graduate in Informatics Engineering from **Institut Teknologi PLN (ITPLN)** (C
 ---
 
 ### 🛠️ Languages, Skills & Tools
+### 🛠️ Languages, Skills & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,py,html,css,js,mysql,postgres,bash,linux,ubuntu,vscode,jupyter,windows,git,github,docker" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=php,py,html,css,js,mysql,postgres,bash,linux,ubuntu,vscode,jupyter,windows,git,github,docker" />
 </p>
+
+
+
 ### 📊 GitHub Insights
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aji-techno&show_icons=true&theme=radical&hide_border=true" height="150" />
