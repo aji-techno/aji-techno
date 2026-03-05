@@ -15,16 +15,20 @@ A graduate in Informatics Engineering from **Institut Teknologi PLN (ITPLN)** (C
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Web Development**
+**Languages & Databases (DBA & Web)**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,nodejs,express,mysql,postgres" alt="Languages and DB" />
+  <img src="https://skillicons.dev/icons?i=php,py,html,css,js,mysql,postgres,bash" alt="Languages and DB" />
 </p>
 
-**Tools & Environment**
+**Tools & Machine Learning**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,vscode,jupyter,git,github,postman,docker,aws" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,jupyter,py,linux,ubuntu" alt="Tools and ML" />
 </p>
----
+
+**Environment & General**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,git,github,docker" alt="General" />
+</p>
 
 ### 📊 GitHub Insights
 <p align="left">
