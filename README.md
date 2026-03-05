@@ -22,24 +22,23 @@ Lulusan S1 Teknik Informatika dari **Institut Teknologi PLN (ITPLN)** tahun 2025
 
 ---
 
-### 📊 GitHub Insights
+
+
+### 📊 GitHub Statistics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aji-techno&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aji-techno&layout=compact&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aji-techno&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aji-techno&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 ---
 
-
-### 🕹️ Real Pacman Activity
-![Pacman](https://raw.githubusercontent.com/aji-techno/aji-techno/output/pacman.svg)
+### 🕹️ Pacman Activity (Top)
+![Pacman](https://raw.githubusercontent.com/aji-techno/aji-techno/output/github-snake.svg)
 
 ---
 
 ### 🐍 Snake Activity (Bottom)
-![Snake Animation](https://raw.githubusercontent.com/aji-techno/aji-techno/output/github-snake-dark.svg)
-
----
+![Snake](https://raw.githubusercontent.com/aji-techno/aji-techno/output/github-snake-dark.svg)
 ---
 
 ### 📫 Connect with Me
