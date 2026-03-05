@@ -1,33 +1,54 @@
 # Hi everyone, I'm Ahsanul Jasir Rafif Ilhami, S.Kom. 👋
-**Database Administrator | Network Engineer | Fullstack Developer**
+**Database Administrator | Network Engineer | IT Enthusiast**
 
-Lulusan S1 Teknik Informatika **ITPLN**. Fokus pada **PostgreSQL**, **Linux**, dan **MikroTik**.
+Lulusan S1 Teknik Informatika dari **Institut Teknologi PLN (ITPLN)** tahun 2025. Memiliki ketertarikan kuat dalam administrasi database (PostgreSQL) dan infrastruktur jaringan.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Ecosystem
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,linux,bash,mikrotik,nodejs,aws,php,py,git" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,linux,bash,mikrotik,nodejs,express,aws,php,py,git,docker" />
+  </a>
+</p>
+
+- **Core Expertise:** Database Management (PostgreSQL), Network Configuration (MTCNA), Linux Administration.
+- **Tools & Scripting:** Bash Scripting, Docker, Git, CI/CD.
+- **Certifications:** MikroTik Certified Network Associate, AWS Cloud Foundations.
+
+---
+
+### 🚀 Highlights & Experience
+- 🏢 **PT PLN UID Banten:** Merancang sistem inventory menggunakan **CodeIgniter 4** & **MySQL**.
+- 📊 **Academic Research:** Skripsi tentang perbandingan **Hierarchical Clustering** (Complete vs Single Linkage) untuk data konsumsi daya.
+- 🎓 **Professional Training:** Alumni **Dicoding Indonesia** (Front-end & Back-end Development Cohort).
+- 🏫 **Organizational:** Mantan Ketua Departemen PSDM di **HMTI ITPLN**.
+
+---
+
+### 📊 GitHub Insights
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aji-techno&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aji-techno&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
 
 ---
 
-### 🚀 Highlights
-- 🛡️ **Network:** Certified **MTCNA**.
-- 🏢 **Experience:** Magang di **PT PLN UID Banten** (Inventory System).
-- 🎓 **Education:** S1 Teknik Informatika **ITPLN** (Lulus 2025).
-
----
-
-### 📊 Stats
-<img src="https://github-readme-stats.vercel.app/api?username=aji-techno&show_icons=true&theme=radical&hide_border=true" height="150" />
+### 🏆 GitHub Achievements
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=aji-techno&theme=radical&no-bg=true" />
+</p>
 
 ---
 
 ### 🕹️ Contribution Game
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game">
+![Snake Animation](https://raw.githubusercontent.com/aji-techno/aji-techno/output/github-snake-dark.svg)
 
 ---
 
-### 📫 Connect
-[Email](mailto:ahsanuljasir5@gmail.com) | [LinkedIn](https://linkedin.com/in/ahsanul-jasir)
+### 📫 Connect with Me
+[LinkedIn](https://linkedin.com/in/ahsanul-jasir) • [Email](mailto:ahsanuljasir5@gmail.com)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=2&section=footer" width="100%"/>
+</p>
