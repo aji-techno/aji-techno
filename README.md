@@ -34,9 +34,19 @@ A graduate in Informatics Engineering from **Institut Teknologi PLN (ITPLN)** (C
 ---
 
 ### 🕹️ Contribution Games
-**Pacman Activity**
-![Pacman](https://raw.githubusercontent.com/aji-techno/aji-techno/output/github-snake.svg)
+### 🎮 My Coding Playground
 
-**Snake Activity**
-![Snake](https://raw.githubusercontent.com/aji-techno/aji-techno/output/github-snake-dark.svg)
+<p align="center">
+  <a href="https://github.com/jasonlong/isometric-contributions">
+    <img src="https://raw.githubusercontent.com/jasonlong/isometric-contributions/master/screenshots/example.png" alt="GitHub Isometric" width="100%" />
+  </a>
+</p>
 
+---
+
+### 🏆 Achievements & Stats
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aji-techno&theme=onedark&column=7&no-bg=true" alt="Trophy" />
+</p>
+
+---
