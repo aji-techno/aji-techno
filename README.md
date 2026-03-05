@@ -1,4 +1,4 @@
-# Hi everyone, I'm Ahsanul Jasir Rafif Ilhami, S.Kom. 👋
+# Hi everyone, I'm Ahsanul Jasir Rafif Ilhami, S.T. 👋
 **Database Administrator | Network Engineer | Fullstack Developer**
 
 Lulusan S1 Teknik Informatika **Institut Teknologi PLN**. Berfokus pada pengelolaan infrastruktur data, optimalisasi jaringan, dan pengembangan aplikasi web yang efisien.
