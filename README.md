@@ -13,11 +13,17 @@ A graduate in Informatics Engineering from **Institut Teknologi PLN (ITPLN)** (C
 
 ---
 
-### 🛠️ Technical Ecosystem
+### 🛠️ Tech Stack & Tools
+
+**Languages & Web Development**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,mysql,py,postgres,nodejs,express,html,css,git,linux,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,nodejs,express,mysql,postgres" alt="Languages and DB" />
 </p>
 
+**Tools & Environment**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,vscode,jupyter,git,github,postman,docker,aws" alt="Tools" />
+</p>
 ---
 
 ### 📊 GitHub Insights
@@ -42,7 +48,3 @@ A graduate in Informatics Engineering from **Institut Teknologi PLN (ITPLN)** (C
 **Snake Activity**
 ![Snake](https://raw.githubusercontent.com/aji-techno/aji-techno/output/github-snake-dark.svg)
 
----
-
-### 📫 Connect with Me
-[LinkedIn](https://linkedin.com/in/ahsanul-jasir) • [Email](mailto:ahsanuljasir5@gmail.com)
