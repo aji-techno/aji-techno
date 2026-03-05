@@ -12,17 +12,13 @@ Lulusan S1 Teknik Informatika dari **Institut Teknologi PLN (ITPLN)** tahun 2025
   </a>
 </p>
 
-- **Core Expertise:** Database Management (PostgreSQL), Network Configuration (MTCNA), Linux Administration.
-- **Tools & Scripting:** Bash Scripting, Docker, Git, CI/CD.
-- **Certifications:** MikroTik Certified Network Associate, AWS Cloud Foundations.
-
 ---
 
 ### 🚀 Highlights & Experience
 - 🏢 **PT PLN UID Banten:** Merancang sistem inventory menggunakan **CodeIgniter 4** & **MySQL**.
-- 📊 **Academic Research:** Skripsi tentang perbandingan **Hierarchical Clustering** (Complete vs Single Linkage) untuk data konsumsi daya.
-- 🎓 **Professional Training:** Alumni **Dicoding Indonesia** (Front-end & Back-end Development Cohort).
-- 🏫 **Organizational:** Mantan Ketua Departemen PSDM di **HMTI ITPLN**.
+- 🛡️ **Network:** Sertifikasi **MikroTik Certified Network Associate (MTCNA)**.
+- 📊 **Research:** Skripsi perbandingan **Hierarchical Clustering** untuk data konsumsi daya.
+- 🎓 **Training:** Alumni **Dicoding Indonesia** (Front-end & Back-end Development).
 
 ---
 
@@ -34,13 +30,6 @@ Lulusan S1 Teknik Informatika dari **Institut Teknologi PLN (ITPLN)** tahun 2025
 
 ---
 
-### 🏆 GitHub Achievements
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=aji-techno&theme=radical&no-bg=true" />
-</p>
-
----
-
 ### 🕹️ Contribution Game
 ![Snake Animation](https://raw.githubusercontent.com/aji-techno/aji-techno/output/github-snake-dark.svg)
 
@@ -48,7 +37,3 @@ Lulusan S1 Teknik Informatika dari **Institut Teknologi PLN (ITPLN)** tahun 2025
 
 ### 📫 Connect with Me
 [LinkedIn](https://linkedin.com/in/ahsanul-jasir) • [Email](mailto:ahsanuljasir5@gmail.com)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=2&section=footer" width="100%"/>
-</p>
