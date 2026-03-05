@@ -1,44 +1,33 @@
-# Hi everyone, I'm Ahsanul Jasir Rafif Ilhami, S.T. 👋
+# Hi everyone, I'm Ahsanul Jasir Rafif Ilhami, S.Kom. 👋
 **Database Administrator | Network Engineer | Fullstack Developer**
 
-Lulusan S1 Teknik Informatika **Institut Teknologi PLN**. Berfokus pada pengelolaan infrastruktur data, optimalisasi jaringan, dan pengembangan aplikasi web yang efisien.
+Lulusan S1 Teknik Informatika **ITPLN**. Fokus pada **PostgreSQL**, **Linux**, dan **MikroTik**.
 
 ---
 
-### 🛠️ Technical Ecosystem
+### 🛠️ Tech Stack
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,linux,bash,mikrotik,nodejs,express,aws,php,codeigniter,py,git,docker" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,linux,bash,mikrotik,nodejs,aws,php,py,git" />
 </p>
 
 ---
 
-### 🚀 Highlights & Experience
-- 🛡️ **Network Infrastructure:** Certified **MikroTik Associate (MTCNA)**.
-- 💾 **Database Management:** Spesialisasi di **PostgreSQL** dan optimasi query.
-- 🏢 **Professional Experience:** Alumni Magang **PT PLN UID Banten** (Inventory System with CI4).
-- 🎓 **Fullstack Development:** Alumni **Dicoding FEBE Cohort** (Node.js & AWS).
-- 📊 **Research:** Analisis data konsumsi daya listrik menggunakan **Hierarchical Clustering**.
+### 🚀 Highlights
+- 🛡️ **Network:** Certified **MTCNA**.
+- 🏢 **Experience:** Magang di **PT PLN UID Banten** (Inventory System).
+- 🎓 **Education:** S1 Teknik Informatika **ITPLN** (Lulus 2025).
 
 ---
 
-### 📈 GitHub Statistics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aji-techno&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aji-techno&layout=compact&theme=radical&hide_border=true" height="150" />
-</p>
+### 📊 Stats
+<img src="https://github-readme-stats.vercel.app/api?username=aji-techno&show_icons=true&theme=radical&hide_border=true" height="150" />
 
 ---
 
-### 🕹️ Coding Activity
-![Snake Animation](https://raw.githubusercontent.com/aji-techno/aji-techno/output/github-snake-dark.svg)
+### 🕹️ Contribution Game
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game">
 
 ---
 
-### 📫 Let's Connect
-[LinkedIn](https://linkedin.com/in/username-kamu) • [Email](mailto:ahsanuljasir5@gmail.com)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=2&section=footer" width="100%"/>
-</p>
+### 📫 Connect
+[Email](mailto:ahsanuljasir5@gmail.com) | [LinkedIn](https://linkedin.com/in/ahsanul-jasir)
