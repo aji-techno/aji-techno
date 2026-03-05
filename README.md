@@ -13,23 +13,11 @@ A graduate in Informatics Engineering from **Institut Teknologi PLN (ITPLN)** (C
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Languages, Skills & Tools
 
-**Languages & Databases (DBA & Web)**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,py,html,css,js,mysql,postgres,bash" alt="Languages and DB" />
+  <img src="https://skillicons.dev/icons?i=php,py,html,css,js,mysql,postgres,bash,linux,ubuntu,vscode,jupyter,windows,git,github,docker" alt="My Tech Stack" />
 </p>
-
-**Tools & Machine Learning**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,jupyter,py,linux,ubuntu" alt="Tools and ML" />
-</p>
-
-**Environment & General**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,git,github,docker" alt="General" />
-</p>
-
 ### 📊 GitHub Insights
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aji-techno&show_icons=true&theme=radical&hide_border=true" height="150" />
