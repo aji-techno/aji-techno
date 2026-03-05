@@ -17,14 +17,8 @@ A graduate in Informatics Engineering from **Institut Teknologi PLN (ITPLN)** (C
 
 **Languages & Databases**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,py,html,css,js,mysql,postgres,bash" />
+  <img src="https://skillicons.dev/icons?i=php,py,html,css,js,mysql,postgres,bash,linux,ubuntu,vscode,windows,git,github,docker" />
 </p>
-
-**Tools & Environment**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,jupyter,windows,git,github,docker" />
-</p>
-
 
 ### 📊 GitHub Insights
 <p align="left">
