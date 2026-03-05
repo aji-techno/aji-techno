@@ -1,4 +1,4 @@
-# Hi everyone, I'm Ahsanul Jasir Rafif Ilhami, S.Kom. 👋
+# Hi everyone, I'm Ahsanul Jasir Rafif Ilhami, S.T. 👋
 **Web Developer | Data Analyst | Informatics Engineer**
 
 A graduate in Informatics Engineering from **Institut Teknologi PLN (ITPLN)** (Class of 2025). I specialize in building web applications and performing data-driven analysis using machine learning techniques.
